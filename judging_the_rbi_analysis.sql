@@ -62,6 +62,12 @@ FROM `side-projects-454319.exit_velocity.cleaned_batting_stats`
 GROUP BY Year
 ORDER BY Year;
 
+-- Players with the highest RBIs per year
+SELECT Player, Year, RBI
+FROM `side-projects-454319.exit_velocity.cleaned_batting_stats`
+ORDER BY RBI DESC
+LIMIT 10;
+
 --Players with the highest OPS
 SELECT Player, Year, Lg, Pos, OPS
 FROM `side-projects-454319.exit_velocity.cleaned_batting_stats`
