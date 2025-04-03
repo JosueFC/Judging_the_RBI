@@ -106,6 +106,9 @@ Based on key offensive stats (HR, SB, BB, SO, BA, OBP, SLG, OPS), players were g
 |--------|--------|--------|--------|--------|---------|---------|---------|
 | __35.0__   | 5.89   | __77.0__   | __134.3__  | 0.273  | __0.384__   | __0.571__   | __0.955__   |
 
+📌 __Insight__: Aaron Judge’s offensive profile clearly aligns with the Power Stars cluster, exceeding the group’s average in nearly every category — especially HR, BB, and OPS.
+
+
 ![image](https://github.com/user-attachments/assets/7ea022f0-721f-4cbd-81c8-a3b3caef13d3)
 
 This scatter plot visualizes the K-means clustering of MLB players based on their offensive metrics, projected into two dimensions using Principal Component Analysis (PCA). Each point represents a player-season, color-coded by their assigned hitter type:
