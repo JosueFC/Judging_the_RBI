@@ -61,3 +61,41 @@ Notable spikes occur in 2020, 2022, and 2024, underscoring his value even in sho
 While league-wide RBI/game remains relatively stable, Judge’s metric fluctuates with his health and team context but remains elite overall.
 
 📌Insight: This figure highlights Judge’s efficiency as a run producer — not just total output, but his ability to contribute consistently every time he takes the field.
+
+![image](https://github.com/user-attachments/assets/d3eb040e-1fa5-430a-9eaf-e8d12932eedc)
+This chart compares Judge’s total RBI per season to top hitters: Nolan Arenado, José Ramírez, Giancarlo Stanton, Freddie Freeman, Matt Olson, and the MLB average.
+
+📌Insight: Judge’s RBI totals are among the top across multiple seasons. His peaks match or surpass those of his elite peers, especially in 2022 and 2024.
+
+![image](https://github.com/user-attachments/assets/a84fb6bb-032e-47dc-8ab0-d7a1acbab156)
+This line chart tracks Aaron Judge’s RBI per game from 2017 to 2024 alongside the MLB average.
+
+📌Insight: Judge's run production efficiency (RBI/Game) remains well above average in most seasons, peaking during his historic 2024 season.
+
+### 📊 Cluster Summary: Hitter Types
+🧠 Understanding the PlayerTypes
+Based on key offensive stats (HR, SB, BB, SO, BA, OBP, SLG, OPS), players were grouped into four distinct archetypes using K-means clustering and PCA visualization:
+
+| Cluster | Archetype        | avg_HR | avg_SB | avg_BB | avg_SO | avg_BA | avg_OBP | avg_SLG | avg_OPS |
+|:-------:|:------------------|--------:|--------:|--------:|--------:|--------:|---------:|---------:|---------:|
+| 1       | Contact Hitters   | 8.10   | 3.59   | 22.0   | 54.2   | 0.268  | 0.334   | 0.434   | 0.768   |
+| 2       | Power Stars       | 27.0   | 9.19   | 60.6   | 118.0  | 0.281  | 0.363   | 0.512   | 0.875   |
+| 3       | Swingers          | 16.3   | 8.72   | 42.4   | 115.0  | 0.246  | 0.316   | 0.414   | 0.730   |
+| 4       | Weak Bats         | 4.85   | 2.94   | 17.1   | 55.8   | 0.213  | 0.278   | 0.331   | 0.609   |
+
+![image](https://github.com/user-attachments/assets/7ea022f0-721f-4cbd-81c8-a3b3caef13d3)
+This scatter plot visualizes the K-means clustering of MLB players based on their offensive metrics, projected into two dimensions using Principal Component Analysis (PCA). Each point represents a player-season, color-coded by their assigned hitter type:
+
+🔴 Contact Hitters (Red): Players with high batting averages and low strikeouts, but limited power.
+
+🟢 Power Stars (Green): High home run totals, strong slugging and OPS — elite offensive producers.
+
+🔵 Swingers (Blue): Aggressive batters with decent power but lower consistency and higher strikeouts.
+
+🟣 Weak Bats (Purple): Below-average performance across most offensive categories.
+
+Interpretation:
+The PCA axes capture key variance in offensive styles. Power Stars cluster clearly in the upper right quadrant, while Contact Hitters tend to group in the lower left. Swingers overlap partially with both but remain distinct. Weak Bats are isolated, highlighting their low-output profiles.
+
+Takeaway:
+This visualization highlights the diversity of offensive approaches in MLB and provides an interpretable framework for comparing player types at scale.
