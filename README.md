@@ -30,13 +30,13 @@ Home Runs
 Doubles
 Triples
 
-📌 _Insight_: Judge’s home run and hit totals reflect his impact during full seasons. Drops in 2020 and 2023 match shortened or injury-affected seasons.
+📌 __Insight__: Judge’s home run and hit totals reflect his impact during full seasons. Drops in 2020 and 2023 match shortened or injury-affected seasons.
 
 ![image](https://github.com/user-attachments/assets/61b85c7a-117c-4dc1-b855-b0db4a5eff2d)
 
 A standalone chart for Judge’s SB totals (2017–2024).
 
-📌 _Insight_: While base stealing isn’t a core part of his profile, Judge shows flashes of aggression in certain years.
+📌 __Insight__: While base stealing isn’t a core part of his profile, Judge shows flashes of aggression in certain years.
 
 ![image](https://github.com/user-attachments/assets/d251f3bf-f4ca-4e81-a33b-76f6ccf912d3)
 
@@ -48,19 +48,23 @@ Judge consistently exceeds the MLB average in run production.
 2022 and 2024 mark peak seasons, with RBI totals far surpassing league norms.
 The steep climbs following down years (e.g., from 2020 → 2021, and 2023 → 2024) highlight Judge’s bounce-back power and elite offensive impact.
 
-📌 _Insight_: Aaron Judge is not just a slugger but a top-tier run producer, reliably driving in runs at a rate unmatched by the average MLB player.
+📌 __Insight__: Aaron Judge is not just a slugger but a top-tier run producer, reliably driving in runs at a rate unmatched by the average MLB player.
 
 ![image](https://github.com/user-attachments/assets/668faa85-b29c-4d0b-8eff-e3530ccc024e)
 
 A 2×2 grid comparing Aaron Judge’s:
 
 Batting Average (BA)
+
 Slugging Percentage (SLG)
+
 On-Base Plus Slugging (OPS)
+
 On-Base Percentage (OBP)
+
 ...against league averages.
 
-📌 _Insight_: Judge consistently exceeds league benchmarks, particularly in SLG and OPS, confirming his elite power-hitter status.
+📌 __Insight__: Judge consistently exceeds league benchmarks, particularly in SLG and OPS, confirming his elite power-hitter status.
 
 ![image](https://github.com/user-attachments/assets/56cf0bbc-5a24-436a-abc5-a5597e25e2c4)
 
@@ -71,19 +75,19 @@ Judge consistently drives in runs at a much higher rate than the league average 
 Notable spikes occur in 2020, 2022, and 2024, underscoring his value even in shortened or injury-affected seasons.
 While league-wide RBI/game remains relatively stable, Judge’s metric fluctuates with his health and team context but remains elite overall.
 
-📌 _Insight_: This figure highlights Judge’s efficiency as a run producer — not just total output, but his ability to contribute consistently every time he takes the field.
+📌 __Insight__: This figure highlights Judge’s efficiency as a run producer — not just total output, but his ability to contribute consistently every time he takes the field.
 
 ![image](https://github.com/user-attachments/assets/d3eb040e-1fa5-430a-9eaf-e8d12932eedc)
 
 This chart compares Judge’s total RBI per season to top hitters: Nolan Arenado, José Ramírez, Giancarlo Stanton, Freddie Freeman, Matt Olson, and the MLB average.
 
-📌_Insight_: Judge’s RBI totals are among the top across multiple seasons. His peaks match or surpass those of his elite peers, especially in 2022 and 2024.
+📌 __Insight__: Judge’s RBI totals are among the top across multiple seasons. His peaks match or surpass those of his elite peers, especially in 2022 and 2024.
 
 ![image](https://github.com/user-attachments/assets/a84fb6bb-032e-47dc-8ab0-d7a1acbab156)
 
 This line chart tracks Aaron Judge’s RBI per game from 2017 to 2024 alongside the MLB average.
 
-📌 _Insight_: Judge's run production efficiency (RBI/Game) remains well above average in most seasons, peaking during his historic 2024 season.
+📌 __Insight__: Judge's run production efficiency (RBI/Game) remains well above average in most seasons, peaking during his historic 2024 season.
 
 ### 📊 Cluster Summary: Hitter Types
 🧠 Understanding the PlayerTypes
