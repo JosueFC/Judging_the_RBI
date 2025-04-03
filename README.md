@@ -1,4 +1,19 @@
 # Judging the RBI
+This project analyzes MLB batting performance from 2015 to 2024, with a special focus on Aaron Judge and his offensive impact compared to league trends and peers.
+## 📥 Data Collection
+Data was collected via web scraping from Baseball-Reference, resulting in an initial dataset of:
+13,445 player-season records (2015–2024)
+## 🧹 Data Cleaning
+The dataset was processed with the following steps:
+❌ Removed null values
+🔁 Removed duplicate records
+📉 Filtered out players with fewer than 100 at-bats per year
+✅ Final dataset size: 4,502 cleaned entries
+
+## 🎯 Project Goals
+Visualize Aaron Judge’s hitting trends.
+Compare Aaron Judge’s performance to league averages and top sluggers.
+Visualize RBI trends, and efficiency (per game).
 
 # Data Exploration
 ![image](https://github.com/user-attachments/assets/a5d149a8-a4fd-499b-b5d9-439c0a88363f)
