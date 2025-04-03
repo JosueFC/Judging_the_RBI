@@ -100,6 +100,12 @@ Based on key offensive stats (HR, SB, BB, SO, BA, OBP, SLG, OPS), players were g
 | 3       | Swingers          | 16.3   | 8.72   | 42.4   | 115.0  | 0.246  | 0.316   | 0.414   | 0.730   |
 | 4       | Weak Bats         | 4.85   | 2.94   | 17.1   | 55.8   | 0.213  | 0.278   | 0.331   | 0.609   |
 
+📈 Aaron Judge – Career Averages (2015–2024)
+
+| Avg_HR | Avg_SB | Avg_BB | Avg_SO | Avg_BA | Avg_OBP | Avg_SLG | Avg_OPS |
+|--------|--------|--------|--------|--------|---------|---------|---------|
+| __35.0__   | 5.89   | __77.0__   | __134.3__  | 0.273  | __0.384__   | __0.571__   | __0.955__   |
+
 ![image](https://github.com/user-attachments/assets/7ea022f0-721f-4cbd-81c8-a3b3caef13d3)
 
 This scatter plot visualizes the K-means clustering of MLB players based on their offensive metrics, projected into two dimensions using Principal Component Analysis (PCA). Each point represents a player-season, color-coded by their assigned hitter type:
